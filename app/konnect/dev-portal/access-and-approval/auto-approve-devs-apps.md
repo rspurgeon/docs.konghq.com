@@ -15,7 +15,8 @@ If auto approve is not enabled for Developers or Applications, admins will need 
 
 Auto approve is disabled by default. You can enable and disable approvals at any time. If there are any pending requests when auto approve is enabled, those requests must be manually approved.
 
-1. In {{site.konnect_short_name}}, open **Dev Portal** from the left side menu, then click **Settings**.
+1. In {{site.konnect_short_name}}, open {% konnect_icon dev-portal %}
+ **Dev Portal** from the left side menu, then click **Settings**.
 
 2. Toggle to enable or disable auto approve for one or both options:
       * Auto Approve Developers

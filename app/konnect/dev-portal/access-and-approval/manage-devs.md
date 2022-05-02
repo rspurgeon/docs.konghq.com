@@ -17,6 +17,7 @@ From the Developers tab, you can:
 If there are no pending requests, a `No Developer Requests` message is displayed. The number of
 pending requests is displayed in Developers tab. For a list of all available statuses click [here](#status).
 
+1. Click {% konnect_icon connections %} **Connections > Requests > Developers** tab.
 
 ## Approve access request {#approve-dev-reg}
 Once developers start registering for your Developer Portal, you have the ability to manually approve their application. All pending developer requests are displayed in the Developers tab of the **Requests** section.
@@ -30,7 +31,7 @@ is now visible on the _Developers_ page and is no longer shown on the _Requests_
 ## Reject access request {#reject-dev-reg}
 You have the option to reject a developer's request to register for your Developer Portal. Rejecting a developer will prevent them from accessing the Developer Portal. You can reject an access request from the Developers tab: 
 
-1.  In the row for developer request you want to reject, click the cog icon and choose
+1.  In the row for developer request you want to reject, click {% konnect_icon connections %} and choose
    **Reject** from the context menu.
 
    The status is updated to **Rejected**. You can
@@ -49,7 +50,7 @@ again with the same email address.
 You can delete a developer's request to access your Developer Portal. This action cannot be undone. A developer
 whose request was deleted will have to submit another request. You can delete a developers access request from the Developers tab:
 
-1. In the row for developer request you want to delete, click the cog icon and choose
+1. In the row for developer request you want to delete, click {% konnect_icon connections %} and choose
    **Delete** from the context menu.
 
 ## Developers Page
@@ -77,7 +78,7 @@ A developer who has been revoked can be
 [approved again](#approve-revoked-dev-access) at any time. You can also
 [delete a developer](#delete-dev) entirely from the {{site.konnect_short_name}} portal.
 
-1. In the row for the developer whose status you want to change, click the cog icon and choose **Revoke** from the
+1. In the row for the developer whose status you want to change, click {% konnect_icon connections %} and choose **Revoke** from the
    context menu.
 
 ### Approve a revoked developer again {#approve-revoked-dev-access}
@@ -86,7 +87,7 @@ A developer whose access was revoked can be approved again
 at any time at your discretion.
 
 
-1. In the row for the developer whose status you want to change, click the icon and choose **Approve** from the
+1. In the row for the developer whose status you want to change, click {% konnect_icon connections %} and choose **Approve** from the
    context menu.
 
 ### Delete a developer {#delete-dev}
@@ -95,7 +96,7 @@ A deleted developer would have to sign up again to request access and approval.
 Deleting a developer deletes everything owned by that developer, such as applications.
 
 
-1. In the row for the developer you want to delete, click the icon and choose **Delete** from the
+1. In the row for the developer you want to delete,  Click {% konnect_icon connections %} and choose **Delete** from the
    context menu.
 
 ## Developer Status {#status}

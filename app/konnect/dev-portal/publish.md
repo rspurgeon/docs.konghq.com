@@ -8,8 +8,8 @@ documentation to the Dev Portal. Once a Service is published in the Dev Portal, 
 
 ## Publish a Service
 
-1. From the left navigation menu, open the **ServiceHub** page and select a
-Service.
+1. From the left navigation menu, open the {% konnect_icon servicehub %}
+**ServiceHub** and select a Service.
 
 2. Click on the **Service Actions** dropdown menu and select **Publish to Portal**.
 
@@ -31,7 +31,8 @@ Service.
 
 ## Unpublish a Service
 
-1. From the left navigation menu, open the **ServiceHub** page and select a Service.
+1. In the left navigation menu, open the {% konnect_icon servicehub %}
+**ServiceHub** and select a Service.
 
 2. Click on the **Service Actions** dropdown and select **Unpublish from Portal**.
 

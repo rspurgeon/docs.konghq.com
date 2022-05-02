@@ -20,7 +20,8 @@ Service in the Dev Portal.
 
 ### Upload a Markdown File for a Service
 
-1. From the left navigation menu, open the **ServiceHub** page.
+1. From the left navigation menu, open the {% konnect_icon servicehub %}
+**ServiceHub**.
 
 2. Select a Service to open its overview.
 
@@ -51,7 +52,7 @@ format.
 
 ### Upload a Version Spec
 
-1. From the left navigation menu, open the **ServiceHub** page.
+1. From the left navigation menu, open the {% konnect_icon servicehub %} **ServiceHub**.
 
 2. Click a Service version to open the Service Overview.
 
@@ -71,7 +72,7 @@ format.
 
 ### Update or Delete a Version Spec
 
-1. From the left navigation menu, open the **ServiceHub** page.
+1. From the left navigation menu, open the {% konnect_icon servicehub %} **ServiceHub**.
 
 2. Click a Service version to open the Service Overview.
 

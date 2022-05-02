@@ -20,7 +20,8 @@ From your domain registrars DNS records settings options, point your CNAME to yo
 
 Add a custom Dev Portal domain through your organization's {{site.konnect_short_name}} Admin UI.
 
-1. In {{site.konnect_short_name}}, open **Dev Portal** from the left side menu, then click **Settings**.
+1. In {{site.konnect_short_name}}, open {% konnect_icon dev-portal %}
+**Dev Portal** from the left side menu, then click **Settings**.
 
 2. Open the **Portal URL** tab.
 
